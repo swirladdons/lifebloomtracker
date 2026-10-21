@@ -1,0 +1,11 @@
+## Interface: 120001
+
+## Title: |cff00ff00Lifebloom|r Tracker
+## Notes: Tracks Lifebloom duration, stacks, and pandemic range
+## Author: Swirl
+## Version: @project-version@
+## IconTexture: Interface\ICONS\inv_misc_herb_felblossom
+## SavedVariables: LifebloomTrackerDB
+## OptionalDeps: LibStub, LibSharedMedia-3.0, LibCustomGlow-1.0
+
+LifebloomTracker.lua
